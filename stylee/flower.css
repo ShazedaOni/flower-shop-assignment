@@ -264,7 +264,7 @@ h2{
     justify-content: space-around;
     font-size: 10px;
 }
-.description2{
+.description_2{
     font-size: 14px;
     
     text-align: center;
@@ -275,14 +275,17 @@ h2{
     
 
 }
-.under_red1{
+.seed{
+    background-color: #c1eed7;
+}
+.under_red_1{
     font-size:24px;
     margin-bottom: 30px;
     text-align: center;
     padding-top: 50px;
 }
 .seeds{
-    background: #c1eed7;
+
     padding: 50px;
     padding-left: 180px;
 }

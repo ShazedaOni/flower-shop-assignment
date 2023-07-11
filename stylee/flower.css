@@ -60,7 +60,7 @@ main{
 
 .flower{
     display: flex;
-    gap: 24px;
+    gap: 5px;
 }
 .section-title{
     color: #272727;
@@ -74,6 +74,62 @@ main{
     margin-bottom: 30px;
     text-align: center;
 }
+.nick{
+    text-align:center;
+    color: #272727;
+    font
+    position: absolute;
+    
+    
+
+}
+.flower_3{
+    background-color: #d3cdcd;
+    height: 300px;
+    width: 464px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    text-align: center;
+    padding: 40px 30px 0px 30px;
+    gap: 10px;
+    
+    
+}
+.flower_2{
+    background-color: #c0eff1;
+    height: 300px;
+    width: 464px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 40px 20px 0px 20px;
+    gap: 10px
+    
+    
+    
+}
+.flower_1{
+    background-color: #f7cde1;
+    height: 300px;
+    width: 464px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    text-align: center;
+    padding: 40px 30px 0px 30px;
+    gap: 10px;
+
+    
+    
+}
+.link{
+    text-align: center;
+
+}
+
+
+
 
     
     

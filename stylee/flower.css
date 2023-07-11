@@ -207,6 +207,7 @@ main{
     border: 1px solid #ffffff;
   }
   .latest{
+    
     justify-content: space-around;
     background-image: url('../flower-shop-assignment/Flower Asset/Rectangle 9.png');
     margin-left: 198px;
@@ -243,6 +244,21 @@ h2{
     border-radius: 5px;
     align-items: center;
     justify-content: space-around;
+}
+.footer{
+    background-color: black;
+    margin:0;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.color1{
+    color: white;
+}
+.copy{
+    color:#746d6d;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 10px;
 }
 
     

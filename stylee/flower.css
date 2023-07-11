@@ -159,14 +159,7 @@ main{
 
 }
 
-.seeds{
-    background: #c1eed7;
-    padding: 50px;
-    padding-left: 180px;
-}
-.img2{
-    border-radius: 45px;
-}
+
 
 .under_red{
     font-size:24px;
@@ -287,6 +280,14 @@ h2{
     margin-bottom: 30px;
     text-align: center;
     padding-top: 50px;
+}
+.seeds{
+    background: #c1eed7;
+    padding: 50px;
+    padding-left: 180px;
+}
+.img2{
+    border-radius: 45px;
 }
 
     

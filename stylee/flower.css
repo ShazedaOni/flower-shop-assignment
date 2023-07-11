@@ -127,7 +127,19 @@ main{
     text-align: center;
 
 }
+.extra{
+    display:flex;
+    background-color: #f7cde1;
+    text-align: center;
+    gap: 24px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 200px;
+   margin-right: 50px;
+    color:#272727;
 
+
+}
 
 
 

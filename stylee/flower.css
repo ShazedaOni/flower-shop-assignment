@@ -14,8 +14,11 @@ body{
 .header{
     background-color: #94143067;
     margin: none;
+    padding-right: 0;
 
     border: 0px;
+    align-items: center;
+    justify-content: space-between;
 }
 .banner{
     padding: 30px 30px 0px 150px;
@@ -24,6 +27,7 @@ body{
     justify-content: space-between;
     margin: none;
     border: 0px;
+    background-size: cover;
    
 
 }
@@ -143,12 +147,66 @@ main{
 
 }
 .red{
-    display:flex;
-    background-color: #f8e3e8;
     margin-top: 95px;
+    padding: 50px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    background-color: #faabbc67;
     
 
 }
+.under_red{
+    font-size:24px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.description{
+    font-size: 14px;
+    text-align: center;
+    padding: 15px;
+    color: #746d6d;
+}
+.color{
+    color: #E55473;
+}
+.sign{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.img
+{
+    padding-right: 140px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 0px;
+    
+}
+.red-flower{
+    padding-left: 100px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.insta{
+    gap: 24px;
+    padding-top: 30px;
+}
+.picture{
+    diplay: flex;
+    align-items: center;
+    margin-left: 200px;
+    margin-left: 200px;
+    gap: 40px;
+    box-shadow: #272727;
+    
+}
+.picture:hover {
+    color: #ffffff;
+    border: 1px solid #ffffff;
+  }
+  
 
 
     

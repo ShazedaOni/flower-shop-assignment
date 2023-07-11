@@ -194,11 +194,11 @@ main{
     padding-top: 30px;
 }
 .picture{
-    diplay: flex;
+    display: flex;
     align-items: center;
     margin-left: 200px;
-    margin-left: 200px;
-    gap: 40px;
+    margin-right: 300px;
+    gap: 14px;
     box-shadow: #272727;
     
 }
@@ -206,10 +206,45 @@ main{
     color: #ffffff;
     border: 1px solid #ffffff;
   }
-  
+  .latest{
+    justify-content: space-around;
+    background-image: url('../flower-shop-assignment/Flower Asset/Rectangle 9.png');
+    margin-left: 198px;
+    margin-right: 200px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+  }
+h2{
+    padding: 90px;
+    padding-bottom: 2px;
+}
+.description1{
+    font-size: 14px;
+    text-align: center;
+    padding: 15px;
+    color: #746d6d;
+    margin-top: 10px;
+    padding-top: 5px;
 
+}
+.email{
+   width: 300px;
+   height: 30px;
+    margin-left: 70px;
+    align-items: center;
+    justify-content: space-around;
+}
+.btn-primary1{
+    background: #E55473;
+    color: #FFFFFF;
+    font-size: 10px;
+    font-weight: 500;
+    padding: 10px 15px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: space-around;
+}
 
     
     
-
 
